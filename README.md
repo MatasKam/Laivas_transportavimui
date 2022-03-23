@@ -8,6 +8,9 @@ Sudedu guolius, ribokšlius, shaft'ą, ir propelerį:
 ![IMG_8609](https://user-images.githubusercontent.com/71984656/159761987-aa3436a1-1f69-477e-8cd6-cd38754fbb9a.JPG)
 
 Prijungiu motorą sujungiu kitą elektroniką ir testuoju:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nF9QHo60R8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 https://youtu.be/nF9QHo60R8w
 
 Kuriam Laivo korpusą: išpjaunu iš putplasčio laivo formą aptraukiu stiklo pluoštu ir laukiu kol išdžius:
